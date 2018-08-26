@@ -1,1 +1,1 @@
-# aws-sdk-java-project-skeleton
+# aws-java-sdk Project Skeleton
